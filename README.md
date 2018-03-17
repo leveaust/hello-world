@@ -1,8 +1,9 @@
 # hello-world
 just another repository test
 
-i'm a new in github...
-read testy $29^2$
+i'm a new in github... said:
+
+> read testy $29^2$
 
 # title
 ## title
